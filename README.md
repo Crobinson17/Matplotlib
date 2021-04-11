@@ -5,6 +5,7 @@ Software used Python Matplotlib:
 
 1.) Looking at the pie chart the proportions of female and male mice used in this test were pretty much even.
 2.)In the line plot I created for the Capomulin drug it looks like over the course of 45 days the size of the tumor is decreasing.
+
 3.)Mouse weight strongly correlates to the tumor volume. 
 
 
