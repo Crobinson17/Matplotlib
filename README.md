@@ -1,8 +1,19 @@
 # Matplotlib
-
 Software used Python Matplotlib: 
 
+3 observations:
+
+1.) Looking at the pie chart the proportions of female and male mice used in this test were pretty much even.
+2.)In the line plot I created for the Capomulin drug it looks like over the course of 45 days the size of the tumor is decreasing.
+3.)Mouse weight strongly correlates to the tumor volume. 
+
+
+summary:
 Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. 
+
+
+Tasks:
+
 
 Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
